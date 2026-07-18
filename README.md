@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=35&duration=4000&pause=2000&color=F7DF1E&center=true&vCenter=true&width=600&lines=%F0%9F%9A%80+Selo+GPT'ye+Hos+Geldiniz!" alt="Typing Effect" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=30&duration=4000&pause=2000&color=F7DF1E&center=true&vCenter=true&width=800&lines=Selo+GPT+Prompt+Laboratuvarina+Hos+Geldiniz!" alt="Typing Effect" />
 </div>
 
 Yapay zeka modellerinin sınırlarını zorlamak, prompt mühendisliği üzerine deneysel çalışmalar yapmak ve büyük dil modellerinin (LLM) mantığını analiz etmek için oluşturulmuş resmi araştırma deposudur.
@@ -12,8 +12,8 @@ Yapay zeka modellerinin sınırlarını zorlamak, prompt mühendisliği üzerine
 
 Videolarda kullandığım, kopyalamaya hazır promptlara ve teknik analizlere aşağıdaki bağlantılardan ulaşabilirsiniz:
 
-* 🐳 **DeepSeek Jailbreak & Manipülasyon Analizi:** Komutları görmek ve direkt kopyalamak için [Buraya Tıklayın](./DeepSeek-Manipülasyon.md).
-* 🔮 **Claude Manipülasyon Analizi:** [Buraya Tıklayın](./Claude-Manipulasyon.md) *(birazdan prompt yayınlanacaktır 🚀)*
+* 🐳 **DeepSeek Manipülasyon Analizi:** Komutları görmek ve direkt kopyalamak için [Buraya Tıklayın](./DeepSeek-Manipülasyon.md).
+* 🔮 **Claude Manipülasyon Analizi:** [Buraya Tıklayın](./Claude-Manipulasyon.md) 
 
 ---
 
