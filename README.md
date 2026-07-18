@@ -12,7 +12,7 @@ Yapay zeka modellerinin sınırlarını zorlamak, prompt mühendisliği üzerine
 
 Videolarda kullandığım, kopyalamaya hazır promptlara ve teknik analizlere aşağıdaki bağlantılardan ulaşabilirsiniz:
 
-* 🐳 **DeepSeek Jailbreak & Manipülasyon Analizi:** Komutları görmek ve direkt kopyalamak için [Buraya Tıklayın](./DeepSeek-Manipülasyon).
+* 🐳 **DeepSeek Jailbreak & Manipülasyon Analizi:** Komutları görmek ve direkt kopyalamak için [Buraya Tıklayın](./DeepSeek-Manipülasyon.md).
 * 🔮 **Claude Manipülasyon Analizi:** [Buraya Tıklayın](./Claude-Manipulasyon) *(birazdan prompt yayınlanacaktır 🚀)*
 
 ---
